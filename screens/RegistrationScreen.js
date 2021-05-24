@@ -1,7 +1,6 @@
 import React,{Component} from 'react';
 import { StyleSheet, Text, View ,TouchableOpacity} from 'react-native';
 import {createSwitchNavigator,createAppContainer} from 'react-navigation';
-import {Dropdown }from 'react-native-material-dropdown';
 
 export default class RegistrationScreen extends Component {
     render(){
