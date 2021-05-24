@@ -21,8 +21,7 @@
     "react-native-snap-carousel": "^3.9.1",
     "react-native-web": "^0.16.3",
     "react-navigation": "^4.4.4",
-    "react-navigation-tabs": "^2.11.1",
-    "style": "0.0.3"
+    "react-navigation-tabs": "^2.11.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
