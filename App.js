@@ -2,8 +2,8 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import {createSwitchNavigator,createAppContainer} from 'react-navigation'
+import {AppTabNavigator} from './components/TabNavigator';
 import WelcomeScreen from './screens/WelcomeScreen';
-import {AppTabNavigator} from './components/TabNavigator'
 import SignInScreen from './screens/SignInScreen';
 import RegistrationScreen from './screens/RegistrationScreen';
 
